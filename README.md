@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="100%" valign="top">
-      <h4>📑 <a href="../resume">resume</a></h4>
+      <h4>📑 <a href="https://github.com/denisglotov/resume">resume</a></h4>
       <p>Version-controlled developer resume and curriculum vitae generator.</p>
       <p>
         <a href="https://glotov.org/resume">
@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🦊 <a href="../fox-and-hounds">fox-and-hounds</a></h4>
+      <h4>🦊 <a href="https://github.com/denisglotov/fox-and-hounds">fox-and-hounds</a></h4>
       <p>Turn-based asymmetric pursuit-evasion game played on arbitrary graph topologies.</p>
       <p>
         <code>Rust</code>
@@ -44,7 +44,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🅿️ <a href="../parking-escape">parking-escape</a></h4>
+      <h4>🅿️ <a href="https://github.com/denisglotov/parking-escape">parking-escape</a></h4>
       <p>Dynamic sliding-block logic puzzle game navigating through congested parking lots.</p>
       <p>
         <code>Rust</code>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌱 <a href="../biomass">biomass</a></h4>
+      <h4>🌱 <a href="https://github.com/denisglotov/biomass">biomass</a></h4>
       <p>Experimental game simulation exploring cellular mechanics and emergent growth.</p>
       <p>
         <code>Game Dev</code>
@@ -85,7 +85,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔐 <a href="../ai-policy-account">ai-policy-account</a></h4>
+      <h4>🔐 <a
+        href="https://github.com/denisglotov/ai-policy-account"
+          >ai-policy-account</a></h4>
       <p>ERC-4337 Smart Account with AI-Oracle automated policy enforcement.</p>
       <p>
         <code>Solidity</code>
@@ -94,7 +96,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🧾 <a href="../ai-policy-app">ai-policy-app</a></h4>
+      <h4>🧾 <a href="https://github.com/denisglotov/ai-policy-app">ai-policy-app</a></h4>
       <p>Receipt policy scanner mobile app with on-device item categorization.</p>
       <p>
         <code>React Native</code>
@@ -110,7 +112,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧾 <a href="../invoice-generator">invoice-generator</a></h4>
+      <h4>🧾 <a
+        href="https://github.com/denisglotov/invoice-generator"
+          >invoice-generator</a></h4>
       <p>Zero-dependency client-side invoice creation tool with printable typography.</p>
       <p>
         <code>HTML5</code>
@@ -119,7 +123,9 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🔄 <a href="../revolut-savings-xml-converter">revolut-savings-xml-converter</a></h4>
+      <h4>🔄 <a
+        href="https://github.com/denisglotov/revolut-savings-xml-converter"
+          >revolut-savings-xml-converter</a></h4>
       <p>Convert Revolut Business Savings CSV monthly statements into ISO 20022 camt.053 XML.</p>
       <p>
         <code>ISO 20022</code>
@@ -135,7 +141,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>👁️ <a href="../blink-me">blink-me</a></h4>
+      <h4>👁️ <a href="https://github.com/denisglotov/blink-me">blink-me</a></h4>
       <p>Blink Eyes — Privacy-first real-time eye-care reminder utility using on-device AI.</p>
       <p>
         <code>Android</code>
@@ -151,7 +157,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="../just-ipinfo-app">just-ip-info</a></h4>
+      <h4>🌐 <a href="https://github.com/denisglotov/just-ipinfo-app">just-ip-info</a></h4>
       <p>Minimalist IP metadata lookup, network diagnostics, and persistent query logs client.</p>
       <p>
         <code>Kotlin</code>
